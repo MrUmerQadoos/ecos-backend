@@ -1,6 +1,6 @@
 
 import { FormOne } from "../model/FormOne.js";
-import { Process } from "../model/process.js";
+import { Process } from "../model/Process.js";
 import { Task } from "../model/task.js";
 
 export const createFormOne = async (req, res) => {

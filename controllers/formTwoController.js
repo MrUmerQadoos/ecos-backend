@@ -4,7 +4,7 @@ import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
 import { Task } from "../model/task.js";
-import { Process } from "../model/process.js";
+import { Process } from "../model/Process.js";
 import {FormTwo } from "../model/FormTwo.js"
 
 const __filename = fileURLToPath(import.meta.url);
